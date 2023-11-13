@@ -1,0 +1,15 @@
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\obj\Debug\net6.0\TddXunit.csproj.AssemblyReference.cache
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\obj\Debug\net6.0\TddXunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\obj\Debug\net6.0\TddXunit.AssemblyInfoInputs.cache
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\obj\Debug\net6.0\TddXunit.AssemblyInfo.cs
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\obj\Debug\net6.0\TddXunit.csproj.CoreCompileInputs.cache
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\bin\Debug\net6.0\TddXunit.exe
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\bin\Debug\net6.0\TddXunit.deps.json
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\bin\Debug\net6.0\TddXunit.runtimeconfig.json
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\bin\Debug\net6.0\TddXunit.dll
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\bin\Debug\net6.0\TddXunit.pdb
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\obj\Debug\net6.0\TddXunit.dll
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\obj\Debug\net6.0\refint\TddXunit.dll
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\obj\Debug\net6.0\TddXunit.pdb
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\obj\Debug\net6.0\TddXunit.genruntimeconfig.cache
+C:\Projetos\c#-dio-projects\TddXunit\TddXunit\obj\Debug\net6.0\ref\TddXunit.dll
